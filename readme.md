@@ -1,0 +1,1 @@
+Teste config Git in VSCode
