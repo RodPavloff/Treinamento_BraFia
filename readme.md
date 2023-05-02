@@ -6,5 +6,6 @@ Temas Abordados:
 - Matemática / Estatística
 - Python / Numpy / Pandas / Seaborn / MatplotLib / Plotly
 - Docker / SQL / NOSQL
+- Power BI
 
 Repositósrio dos exercícios realizados :+1:
